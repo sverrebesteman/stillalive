@@ -9,12 +9,11 @@ in text terminal.
 `still_alive_credit.py` is written with Python 3. In most cases the following
 `pip` should be `pip3` command.
 
-In Windows system, you need a teminal emulator supporting ANSI escape sequences
-like Windows Terminal, MinTTY, Cmder or ConEmu。
+In Windows, you need a teminal emulator supporting ANSI escape sequences like Windows Terminal, MinTTY, Cmder or ConEmu.
 
 For playing music, you need install `pygame` with `pip`.
 
-*I am testing macOS so give me a moment for that please*
+*I am testing macOS so give me a moment for that please.*
 
 ## Usage
 
@@ -24,9 +23,9 @@ In current directory, execute:
 python3 still_alive_credit.py
 ```
 
-The script will read environment variable `TERM`, `COLUMNS` and `LINES` to determine
+The script will read the following environment variables: `TERM`, `COLUMNS` and `LINES` to determine
 the output area size and whether to enable features such as terminal color. If you
-want run it on a standard VT100 terminal, you should execute:
+want run it on a standard VT100 terminal, you should execute the following command:
 
 ```
 TERM=vt100 python3 still_alive_credit.py
