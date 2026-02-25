@@ -1,4 +1,4 @@
-# *NOTE, this is not my project. This is simply a fork with the sound fixed. All credit goes to https://github.com/errorer
+# *NOTE, this is not my project. This is simply a fork with pygame instead of playsound. All credit goes to https://github.com/errorer
 
 
 A demo of the credit song 'Still Alive' of Portal 1 written in Python, running
@@ -12,9 +12,9 @@ in text terminal.
 In Windows system, you need a teminal emulator supporting ANSI escape sequences
 like Windows Terminal, MinTTY, Cmder or ConEmu。
 
-For playing music, you need install `playsound` with `pip`. In Linux `playsound`
-depends on `python-gobject` (default installed in Ubuntu). In MacOS you also need
-to use `pip` to install `PyObjC`.
+For playing music, you need install `pygame` with `pip`.
+
+*I am testing macOS so give me a moment for that please*
 
 ## Usage
 
