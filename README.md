@@ -40,13 +40,3 @@ case, the script only depends on Python standard library:
 ```
 python3 still_alive_credit.py --no-sound
 ```
-
-## Linux 运行效果 / Snapshot on Linux
-
-![](still_alive_linux.jpg)
-
-## 演示视频 / demonstration video
-
-![](still_alive_informer213.jpg)
-
-<https://www.bilibili.com/video/BV1cU4y1A7ud>
