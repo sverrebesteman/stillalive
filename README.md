@@ -1,4 +1,4 @@
-# *NOTE, this is not my project. This is simply a fork with pygame instead of playsound. All credit goes to https://github.com/errorer
+*NOTE, this is not my project. This is simply a fork with pygame instead of playsound. All credit goes to https://github.com/errorer*
 
 
 A demo of the credit song 'Still Alive' of Portal 1 written in Python, running
@@ -6,8 +6,7 @@ in text terminal.
 
 ## Dependency
 
-`still_alive_credit.py` is written with Python 3. In most cases the following
-`pip` should be `pip3` command.
+`still_alive_credit.py` is written with Python 3. 
 
 In Windows, you need a teminal emulator supporting ANSI escape sequences like Windows Terminal, MinTTY, Cmder or ConEmu.
 
