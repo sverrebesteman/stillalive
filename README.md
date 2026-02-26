@@ -11,13 +11,14 @@ in text terminal.
 
 In Windows, you need a teminal emulator supporting ANSI escape sequences like Windows Terminal, MinTTY, Cmder or ConEmu.
 
-For playing music, you need install `pygame` with `pip`.
+For playing music, you need install `pygame` with `pip3`.
 
-*I am testing macOS so give me a moment for that please.*
+On macOS, you need to install python3 and pip3. What worked for me was Homebrew. 
+When you have installed pip3, run `pip3 install pygame`, same as on Linux.
 
 ## Usage
 
-In current directory, execute:
+In the downloaded directory, execute:
 
 ```
 python3 still_alive_credit.py
