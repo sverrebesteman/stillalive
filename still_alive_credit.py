@@ -461,7 +461,7 @@ lyrics = [
     lyric("Think of all the things we learned", 9983,   -1,   0),
     lyric(0,                                    10120,  0,    2),  # ASCII 1
     lyric("For the people who are",             10190,  -1,   0),
-    lyric("Still alive.",                       10327,  1.8,  0),
+    lyric("still alive.",                       10327,  1.8,  0),
 
     ##########  Page 3  ##########
     lyric(0,                                    10603,
