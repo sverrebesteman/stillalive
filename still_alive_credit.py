@@ -25,7 +25,8 @@
 # Personnel credits come from this project: https://github.com/xBytez/aperturescience
 # ASCII arts come from this project: https://sites.google.com/site/gaddc11/Stillalive.rar?attredirects=0&d=1
 # My blog: EE Archeology @ http://7400.me
-
+# 
+# Updated by Sverre Besteman.
 
 import time
 import sys
