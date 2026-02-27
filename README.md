@@ -32,10 +32,3 @@ TERM=vt100 python3 still_alive_credit.py
 ```
 
 You can use the `--no-stay` option to automatically exit after the music finishes playing. By default, it remains on the playback screen. You can also press `Ctrl+C` to exit.
-
-It's able to use `--no-sound` option to run the script without playing sound. In this
-case, the script only depends on Python standard library:
-
-```
-python3 still_alive_credit.py --no-sound
-```
